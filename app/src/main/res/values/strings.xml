@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DummyNote1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="checkbox">不在顯示</string>
+    <string name="toGoogle">是否前往GOOGLE首頁</string>
+    <string name="settitle">歡迎</string>
+</resources>
